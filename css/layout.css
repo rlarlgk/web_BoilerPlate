@@ -1,0 +1,39 @@
+
+/* common */
+.d-flex{
+    display: flex;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.align-tiems-center{
+    align-items: center;
+}
+.ml-auto{
+    margin-left: auto;
+}
+.mr-auto{
+    margin-right: auto;
+}
+
+
+.opacity-0{
+    opacity: 0;
+}
+.opacity-1{
+    opacity: 0.1;
+}
+.opacity-2{
+    opacity: 0.3;
+}
+.opacity-3{
+    opacity: 0.5;
+}
+.opacity-4{
+    opacity: 0.8;
+}
+.opacity-5{
+    opacity: 1;
+}
+
+
